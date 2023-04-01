@@ -77,7 +77,7 @@ endmodule
 
 2.) For FULL ADDER:
 
-![rtl](.images/fulladderlogic.jpg)
+![rtl](.images/sodapdf-converted.png)
 ### TIMING DIAGRAM:
 
 1.) For HALF ADDER: 
