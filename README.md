@@ -73,31 +73,31 @@ endmodule
 ### RTL:
 1.) For HALF ADDER: 
 
-![rtl](.images/halfadderlogic.jpeg)
+![rtl](./images/halfadderlogic.jpeg)
 
 2.) For FULL ADDER:
 
-![rtl](.images/fulladdderlogic.jpeg)
+![rtl](./images/fulladderlogic.jpeg)
 ### TIMING DIAGRAM:
 
 1.) For HALF ADDER: 
 
-![time](.images/halfaddertime.jpeg)
+![time](./images/halfaddertime.jpeg)
 
 2.) For FULL ADDER:
 
-![time](.images/fulladdertime.jpeg)
+![time](./images/fulladdertime.jpeg)
 
 ### TRUTH TABLE :
 
 1.) For HALF ADDER: 
 
-![truth](.images/halfaddertruthtable.png)
+![truth](./images/halfaddertruthtable.png)
 
 
 2.) For FULL ADDER:
 
-![truth](.images/fulladdertruthtable.png)
+![truth](./images/fulladdertruthtable.png)
 
 ## Result:
 
